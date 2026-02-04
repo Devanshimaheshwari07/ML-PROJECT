@@ -1,1 +1,2 @@
-# AI CUSTOMER CHURN PREDICTION ML PROJECT
+# Higher Education Students Performance Evaluation ML PROJECT
+
